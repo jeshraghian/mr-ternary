@@ -1,6 +1,6 @@
 # mrTernary
 
-SPICE netlists of RRAM-CMOS ternary logic gates.
+SPICE netlists of a memristor-CMOS ternary logic family.
 
 ## Low-Power Memristor-CMOS Ternary Logic Family
 Paper: TBC
