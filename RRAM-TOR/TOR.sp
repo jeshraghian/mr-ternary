@@ -1,5 +1,5 @@
 * RRAM-TNOR Gate 
-* Fig. 3 from "Low-Power Memristor-CMOS Ternary Logic Family"
+* Fig. 3 from "High-Density Memristor-CMOS Ternary Logic Family"
 * Netlist by Jason K. Eshraghian, University of Michigan
 
 * Input Signals

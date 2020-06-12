@@ -1,7 +1,8 @@
 * RRAM-CMOS TXOR and TXNOR Gates
-* Fig. 11 from "Low-Power Memristor-CMOS Ternary Logic Family"
+* Fig. 11 from "High-Density Memristor-CMOS Ternary Logic Family"
 * Netlist by Jason K. Eshraghian, University of Michigan
-* Note: if convergence fails, input increase rise and fall times
+* Note: simulation convergence often fails at correct values for TAU. 
+* Some tips to fix include switching ODE solver method, modifying resistance ratio, increasing rise/fall times, simulation duration, initial state conditions.
 
 * Input Signals
 V1 N001 GND PWL(0s 0V 2.8m 0V 3m 0.5V 5.8m 0.5V 6m 1V)

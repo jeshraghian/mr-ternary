@@ -1,5 +1,5 @@
 * RRAM-CMOS STI Gate
-* Fig. 6 from "Low-Power Memristor-CMOS Ternary Logic Family"
+* Fig. 6 from "High-Density Memristor-CMOS Ternary Logic Family"
 * Netlist by Jason K. Eshraghian, University of Michigan
 
 * Input Signals
