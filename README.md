@@ -5,12 +5,12 @@ Contributors: Xiaoyuan Wang, Pengfei Zhou and Jason K. Eshraghian
 
 ## High-Density Memristor-CMOS Ternary Logic Family
 
-This netlist was developed to supplement the following paper:
+This netlist was developed to supplement the following paper. Please cite the following when using any part of this code:
 
 @article{wang2020highdensity, <br/>
   title={High-Density Memristor-CMOS Ternary Logic Family}, <br/>
-  author={Wang, Xiaoyuan and Zhou, Pengfei and Eshraghian, Jason K and Lin, Chih-Yang and Iu, Herbert Ho-Ching}, <br/>
-  journal={arXiv preprint}, <br/>
+  author={Wang, Xiaoyuan and Zhou, Pengfei and Eshraghian, Jason K. and Lin, Chih-Yang and Iu, Herbert Ho-Ching}, <br/>
+  journal={techRxiv preprint techrxiv.12598559.v1}, <br/>
   year={2020} <br/>
 } <br/>
 
