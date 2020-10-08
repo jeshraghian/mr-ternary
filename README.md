@@ -10,8 +10,10 @@ This netlist was developed to supplement the following paper. Please cite the fo
 @article{wang2020highdensity, <br/>
   title={High-Density Memristor-CMOS Ternary Logic Family}, <br/>
   author={Wang, Xiaoyuan and Zhou, Pengfei and Eshraghian, Jason K. and Lin, Chih-Yang and Iu, Herbert Ho-Ching and Chang, Ting-Chang and Kang, Sung-Mo}, <br/>
-  journal={techRxiv preprint techrxiv.12598559.v1}, <br/>
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, <br/>
+  month={October}<br/>
   year={2020} <br/>
+  doi={10.1109/TCSI.2020.3027693}
 } <br/>
 
 ## Getting Started
